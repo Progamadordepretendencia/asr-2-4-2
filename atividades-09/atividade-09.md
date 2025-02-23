@@ -1,0 +1,1 @@
+## Faça um Tutorial sobre duas Plataformas de monitoramento de Redes Open Source. Uma delas deve ser o Zabbix. Descreva os seguintes tópicos: Características, Configuração e Instalação. No final faça um quadro das diferenças entre as duas plataformas.
