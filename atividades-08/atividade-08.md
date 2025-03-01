@@ -1,0 +1,1 @@
+## Implementar um Proxy Reverso usando NGINX. A implementação deve usar containers usando Docker-Compose de forma a usar serviços cujo acesso deve feito através do Proxy Reverso. Evidenciar a configuração do Docker Compose, a configuração do NGINX e o acesso a um serviço intermediado pelo Proxy Reverso.
